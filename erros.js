@@ -1,6 +1,7 @@
 // erros 
-const numero = ;
-console.log(numero; console.log(minhaVar):
+//const numero = ;
+//console.log(numero; console.log(minhaVar):
 
-        //correto
-        const numero = 0; console.log(numero);
+//correto
+const numero = 0;
+console.log(numero);
