@@ -8,4 +8,4 @@ function mostraTexto(texto) {
 }
 
 mostraTexto(Olá)
-mostraTexto(Tudo bem)
+mostraTexto(Oi)
